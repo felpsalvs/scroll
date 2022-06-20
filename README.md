@@ -6,9 +6,9 @@
 Um dos aprendizados de hoje foi sobre o debounce do JavaScript, que aciona uma função apenas uma vez, no nosso caso aqui para mostrar um slide de imagem quando rolamos o scroll.
 É possível também fazer sugestões de caixa de pesquisa, salvamento automático de campo de texto, e eliminação de cliques duplos.
 
-13/30
-veja: https://scroll-tau.vercel.app/
-https://JavaScript30.com
+13/30 <br/>
+veja: https://scroll-tau.vercel.app/ <br/>
+https://JavaScript30.com 
 
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
